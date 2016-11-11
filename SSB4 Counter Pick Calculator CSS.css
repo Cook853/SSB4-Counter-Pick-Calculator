@@ -1,5 +1,13 @@
 #controls {
-	
+	height: 5em;
+	display: block;
+	margin: auto;
+	border-radius: 5;
+	background-color: #000000;
+	font-size: 1em;
+	color: #ffffff;
+	border: 1em solid red;
+	text-align: center;
 }
 
 #choose {
@@ -7,21 +15,36 @@
 }
 
 #characters {
-	
-}
-
-#characters:hover {
-	
+	display: inline-block;
+	width: 3em;
+	height: 3em;
+	border: 1em solid blue;
+	border-radius: 5;
+	margin: auto;
+	padding: 1em;
+	float: left
 }
 
 #two {
-	
+	height: 15em;
+	margin: auto;
+	border-radius: 5;
+	background-color: #000000;
+	font-size: 1em;
+	color: #ffffff;
+	border: 1em solid red;
+	text-align: center;
 }
 
 #next {
-	
+	height: 5em;
+	width: 5em;
+	margin: auto;
+	border-radius: 5;
+	background-color: #ffffff;
+	font-size: 1em;
+	color: #000000;
+	border: 1em solid red;
+	text-align: center;
 }
 
-#next:hover {
-	
-}
